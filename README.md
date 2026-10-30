@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá! Eu sou o Adna👋
 
-<!--
-**adnabelchior83-jpg/adnabelchior83-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 *Estudante de Sistema de Informação*  
+💻 Apaixonado por tecnologia, resolução de problemas e desenvolvimento de software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre Mim
+- 📚 Cursando *Sistema de Informação*.
+- 🛠️ Estudando *Algoritmos, Lógica Computacional e Arquitetura de Computadores*.
+- 💻 Praticando programação em *C++* e desenvolvimento Web (*HTML, CSS, JavaScript*).
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+- *Linguagens:* C++, JavaScript, HTML5, CSS3
+- *IDEs & Ferramentas:* Code::Blocks, VS Code, Git, GitHub
+
+---
+
+### 📂 Projetos em Destaque
+- [Sistema de Gestão de Alunos em C++](https://github.com/AlanSilva210487/sistema-gestao-aluno-cpp) — Cadastro acadêmico com vetor de structs e funções modularizadas.
+
+---
+
+### 📫 Contato
+- *LinkedIn:* https://www.linkedin.com/in/adna-belck-1378a8202
+- *E-mail:* adnabelchior83@gmail.com
