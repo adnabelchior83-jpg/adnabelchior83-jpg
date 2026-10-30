@@ -1,4 +1,4 @@
-# Olá! Eu sou o Adna👋
+# Olá! Eu sou a Adna👋
 
 🎓 *Estudante de Sistema de Informação*  
 💻 Apaixonado por tecnologia, resolução de problemas e desenvolvimento de software.
