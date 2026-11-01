@@ -21,6 +21,8 @@
 ### 📂 Projetos em Destaque
 - [Sistema de Gestão de Alunos em C++](https://github.com/adnabelchior83-jpg) — Cadastro acadêmico com vetor de structs e funções modularizadas.
 
+- [Sistema de Agendamento de Manicure em C+=](https://github.com/adnabelchior83-jpg/sistema-agendamento-salao/blob/main/README.md) - Cadastro de agendamento no salão com vetor de structs e funções modularizadas.
+
 ---
 
 ### 📫 Contato
